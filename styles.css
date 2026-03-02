@@ -1,0 +1,61 @@
+h1,h2,p {
+    text-align: center;
+    color: #333;
+}
+.menu {
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: grey;
+}
+body {
+    background-image: url(https://images.pexels.com/photos/4109744/pexels-photo-4109744.jpeg?_gl=1*1gqlv0s*_ga*ODAyODY1Njk0LjE3NzIzNDgwNDY.*_ga_8JE65Q40S6*czE3NzIzNDgwNDUkbzEkZzEkdDE3NzIzNDgxMzMkajU3JGwwJGgw);
+    font-family: sans-serif;
+    padding: 20px;
+}
+h1,h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1 {
+    font-size: 40px;
+}
+h2 {
+    font-size: 30px;
+}
+.est {
+    font-style: italic;
+}
+.flavor, .dessert {
+    text-align: left;
+    width: 75%;
+}
+.price {
+    text-align: right;
+    width: 25%;
+}
+.item {
+    display: flex;
+}
+.item p{
+    /* margin-top: 5px;
+    margin-bottom: 5px; */
+    margin: 5px 0;
+    font-size: 18px;
+}
+.bottom-line {
+    margin-top: 25px;
+}
+/*FOOTER*/
+footer {
+    font-size: 14px;
+}
+a {
+    color: black;
+}
