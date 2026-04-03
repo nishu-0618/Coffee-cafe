@@ -5,7 +5,8 @@ A responsive coffee shop website built using HTML, CSS, and JavaScript.
 This project started as a basic tutorial from freeCodeCamp and was later improved with custom features and modern UI enhancements.
 
 
-# Features
+
+## Features
 
 * Interactive menu filtering (Coffee / Desserts)
 * Responsive design (mobile-friendly)
@@ -13,14 +14,16 @@ This project started as a basic tutorial from freeCodeCamp and was later improve
 * Smooth user experience with JavaScript
 
 
-# Built With
+
+## Built With
 
 * HTML5
 * CSS3 (Flexbox)
 * JavaScript (DOM manipulation)
 
 
-# What I Learned
+
+## What I Learned
 
 * Structuring web pages using semantic HTML
 * Styling layouts with CSS and Flexbox
@@ -28,7 +31,8 @@ This project started as a basic tutorial from freeCodeCamp and was later improve
 * Improving UI/UX design
 
 
-# Future Improvements
+
+## Future Improvements
 
 * Add search functionality for menu items
 * Add animations and transitions
@@ -36,12 +40,14 @@ This project started as a basic tutorial from freeCodeCamp and was later improve
 * Deploy live website
 
 
-# Credits
+
+## Credits
 
 This project was initially inspired by a freeCodeCamp tutorial and later expanded with additional features and improvements.
 
 
-# Project Structure
+
+## Project Structure
 
 ```
 index.html
